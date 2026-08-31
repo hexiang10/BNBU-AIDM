@@ -1,2 +1,2 @@
-# one-stop-system
-一站式学生事务系统
+# data-mining
+Data mining is a significant method for media data acquisition, analysis and management. This project aims to introduce the fundamental issues of media d and data mining; to learn the latest techniques of data mining; to conduct application case studies to show the usage of data mining for media analytics. A variety of practical application in media and communication are included, such as social media analysis and social network analysis.
